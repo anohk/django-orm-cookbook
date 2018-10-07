@@ -1,4 +1,4 @@
-Django ORM Cookbook
+장고 ORM 요리책
 +++++++++++++++++++++++
 
 
